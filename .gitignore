@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.pyc
+node_modules/
+.agents/
+.claude/
+.codex/
+skills-lock.json
+*.apk
+*.ipa
+*.aab
+*.bundle
+*.har
+.env*
+references/fixyoyap/
+analysis/
+dist/
